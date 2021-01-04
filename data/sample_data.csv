@@ -1,0 +1,1252 @@
+﻿Year,Quarter,Month,Product,Revenue,Device,Format,Company
+2019,Qtr 3,September,Core,29698,Mobile,Display,Apple
+2019,Qtr 3,September,Core,4171,Desktop,Display,Apple
+2019,Qtr 3,August,Core,88938,Mobile,Display,Apple
+2019,Qtr 3,August,Core,10154,Desktop,Display,Apple
+2019,Qtr 3,July,Core,85092,Mobile,Display,Apple
+2019,Qtr 3,July,Core,11597,Desktop,Display,Apple
+2019,Qtr 2,June,Core,85291,Mobile,Display,Apple
+2019,Qtr 2,June,Core,12319,Desktop,Display,Apple
+2019,Qtr 2,May,Core,66842,Mobile,Display,Apple
+2019,Qtr 2,May,Core,10999,Desktop,Display,Apple
+2019,Qtr 2,April,Core,70364,Mobile,Display,Apple
+2019,Qtr 2,April,Core,11414,Desktop,Display,Apple
+2019,Qtr 1,March,Core,81025,Mobile,Display,Apple
+2019,Qtr 1,March,Core,13330,Desktop,Display,Apple
+2019,Qtr 1,February,Core,65125,Mobile,Display,Apple
+2019,Qtr 1,February,Core,15125,Desktop,Display,Apple
+2019,Qtr 1,January,Core,52420,Mobile,Display,Apple
+2019,Qtr 1,January,Core,15997,Desktop,Display,Apple
+2018,Qtr 4,December,Core,43517,Mobile,Display,Apple
+2018,Qtr 4,December,Core,14555,Desktop,Display,Apple
+2018,Qtr 4,November,Core,39443,Mobile,Display,Apple
+2018,Qtr 4,November,Core,14525,Desktop,Display,Apple
+2018,Qtr 4,October,Core,38978,Mobile,Display,Apple
+2018,Qtr 4,October,Core,15229,Desktop,Display,Apple
+2018,Qtr 3,September,Core,36977,Mobile,Display,Apple
+2018,Qtr 3,September,Core,12853,Desktop,Display,Apple
+2018,Qtr 3,August,Core,37069,Mobile,Display,Apple
+2018,Qtr 3,August,Core,12059,Desktop,Display,Apple
+2018,Qtr 3,July,Core,41874,Mobile,Display,Apple
+2018,Qtr 3,July,Core,15668,Desktop,Display,Apple
+2018,Qtr 2,June,Core,40154,Mobile,Display,Apple
+2018,Qtr 2,June,Core,16424,Desktop,Display,Apple
+2018,Qtr 2,May,Core,43784,Mobile,Display,Apple
+2018,Qtr 2,May,Core,17667,Desktop,Display,Apple
+2018,Qtr 2,April,Core,44762,Mobile,Display,Apple
+2018,Qtr 2,April,Core,16107,Desktop,Display,Apple
+2018,Qtr 1,March,Core,50020,Mobile,Display,Apple
+2018,Qtr 1,March,Core,17853,Desktop,Display,Apple
+2018,Qtr 1,February,Core,49587,Mobile,Display,Apple
+2018,Qtr 1,February,Core,17460,Desktop,Display,Apple
+2018,Qtr 1,January,Core,54548,Mobile,Display,Apple
+2018,Qtr 1,January,Core,19124,Desktop,Display,Apple
+2017,Qtr 4,December,Core,54466,Mobile,Display,Apple
+2017,Qtr 4,December,Core,18090,Desktop,Display,Apple
+2017,Qtr 4,November,Core,14479,Mobile,Display,Apple
+2017,Qtr 4,November,Core,4812,Desktop,Display,Apple
+2017,Qtr 4,October,Core,10674,Mobile,Display,Apple
+2017,Qtr 4,October,Core,3143,Desktop,Display,Apple
+2017,Qtr 3,September,Core,10510,Mobile,Display,Apple
+2017,Qtr 3,September,Core,2915,Desktop,Display,Apple
+2017,Qtr 3,August,Core,29656,Mobile,Display,Apple
+2017,Qtr 3,August,Core,9542,Desktop,Display,Apple
+2019,Qtr 3,September,Core,55194,Desktop,Display,Pear
+2019,Qtr 3,August,Core,164421,Desktop,Display,Pear
+2019,Qtr 3,July,Core,159811,Desktop,Display,Pear
+2019,Qtr 2,June,Core,160702,Desktop,Display,Pear
+2019,Qtr 2,May,Core,141386,Desktop,Display,Pear
+2019,Qtr 2,April,Core,124409,Desktop,Display,Pear
+2019,Qtr 1,March,Core,181740,Desktop,Display,Pear
+2019,Qtr 1,February,Core,139017,Desktop,Display,Pear
+2019,Qtr 1,January,Core,244355,Desktop,Display,Pear
+2018,Qtr 4,December,Core,292622,Desktop,Display,Pear
+2018,Qtr 4,November,Core,393078,Desktop,Display,Pear
+2018,Qtr 4,October,Core,341847,Desktop,Display,Pear
+2018,Qtr 3,September,Core,176211,Desktop,Display,Pear
+2018,Qtr 3,August,Core,179400,Desktop,Display,Pear
+2018,Qtr 3,July,Core,213362,Desktop,Display,Pear
+2018,Qtr 2,June,Core,40028,Desktop,Display,Pear
+2018,Qtr 2,May,Core,62342,Desktop,Display,Grape
+2018,Qtr 2,April,Core,132042,Desktop,Display,Grape
+2018,Qtr 1,March,Core,134847,Desktop,Display,Grape
+2018,Qtr 1,February,Core,174856,Desktop,Display,Grape
+2018,Qtr 1,January,Core,123381,Desktop,Display,Grape
+2017,Qtr 4,December,Core,91171,Desktop,Display,Grape
+2017,Qtr 4,November,Core,293,Desktop,Display,Grape
+2019,Qtr 3,September,Social,3536,Mobile,Video,Orange
+2019,Qtr 3,September,Social,1041,Mobile,Display,Orange
+2017,Qtr 1,January,Core,331,Desktop,Display,Orange
+2019,Qtr 3,September,Core,2031,Mobile,Display,Orange
+2019,Qtr 3,September,Core,1881,Desktop,Display,Orange
+2019,Qtr 3,August,Video Platform,367,Mobile,Video,Orange
+2019,Qtr 3,August,Social,22348,Mobile,Video,Orange
+2017,Qtr 1,January,Core,157,Mobile,Display,Orange
+2019,Qtr 3,August,Social,13067,Mobile,Display,Orange
+2019,Qtr 3,August,Social,489,Desktop,Video,Orange
+2019,Qtr 3,August,Social,145,Desktop,Display,Orange
+2019,Qtr 3,August,Core,796,Mobile,Video,Orange
+2019,Qtr 3,August,Core,19856,Mobile,Display,Orange
+2019,Qtr 3,August,Core,368,Desktop,Video,Orange
+2019,Qtr 3,August,Core,10321,Desktop,Display,Orange
+2019,Qtr 3,July,Social,24357,Mobile,Video,Orange
+2019,Qtr 3,July,Social,11511,Mobile,Display,Orange
+2019,Qtr 3,July,Social,702,Desktop,Video,Orange
+2019,Qtr 3,July,Social,265,Desktop,Display,Orange
+2019,Qtr 3,July,Core,15325,Mobile,Display,Orange
+2019,Qtr 3,July,Core,12144,Desktop,Display,Orange
+2019,Qtr 2,June,Social,14460,Mobile,Video,Orange
+2019,Qtr 2,June,Social,9247,Mobile,Display,Orange
+2019,Qtr 2,June,Social,228,Desktop,Video,Orange
+2019,Qtr 2,June,Social,139,Desktop,Display,Orange
+2019,Qtr 2,June,Core,13379,Mobile,Display,Orange
+2019,Qtr 2,June,Core,9458,Desktop,Display,Orange
+2019,Qtr 2,May,Social,17741,Mobile,Video,Orange
+2019,Qtr 2,May,Social,5958,Mobile,Display,Orange
+2019,Qtr 2,May,Social,486,Desktop,Video,Orange
+2019,Qtr 2,May,Social,197,Desktop,Display,Orange
+2019,Qtr 2,May,Core,21308,Mobile,Display,Orange
+2019,Qtr 2,May,Core,11402,Desktop,Display,Orange
+2019,Qtr 2,April,Video Platform,725,Mobile,Video,Orange
+2019,Qtr 2,April,Social,16892,Mobile,Video,Orange
+2019,Qtr 2,April,Social,9456,Mobile,Display,Orange
+2019,Qtr 2,April,Social,702,Desktop,Video,Orange
+2019,Qtr 2,April,Social,228,Desktop,Display,Orange
+2019,Qtr 2,April,Core,523,Mobile,Video,Orange
+2019,Qtr 2,April,Core,27096,Mobile,Display,Orange
+2019,Qtr 2,April,Core,101,Desktop,Video,Orange
+2019,Qtr 2,April,Core,9347,Desktop,Display,Orange
+2019,Qtr 1,March,Video Platform,273,Mobile,Video,Orange
+2019,Qtr 1,March,Social,8018,Mobile,Video,Orange
+2019,Qtr 1,March,Social,2605,Mobile,Display,Orange
+2019,Qtr 1,March,Social,306,Desktop,Video,Orange
+2019,Qtr 1,March,Social,154,Desktop,Display,Orange
+2017,Qtr 1,March,Core,219,Desktop,Display,Orange
+2019,Qtr 1,March,Core,160,Mobile,Video,Orange
+2019,Qtr 1,March,Core,12414,Mobile,Display,Orange
+2019,Qtr 1,March,Core,4904,Desktop,Display,Orange
+2019,Qtr 1,February,Social,11293,Mobile,Video,Orange
+2019,Qtr 1,February,Social,2843,Mobile,Display,Orange
+2019,Qtr 1,February,Social,796,Desktop,Video,Orange
+2019,Qtr 1,February,Core,173,Mobile,Video,Orange
+2019,Qtr 1,February,Core,12047,Mobile,Display,Orange
+2019,Qtr 1,February,Core,168,Desktop,Video,Orange
+2019,Qtr 1,February,Core,4893,Desktop,Display,Orange
+2019,Qtr 1,January,Social,16755,Mobile,Video,Orange
+2019,Qtr 1,January,Social,9356,Mobile,Display,Orange
+2019,Qtr 1,January,Social,544,Desktop,Video,Orange
+2019,Qtr 1,January,Core,574,Mobile,Video,Orange
+2019,Qtr 1,January,Core,20559,Mobile,Display,Orange
+2019,Qtr 1,January,Core,320,Desktop,Video,Orange
+2019,Qtr 1,January,Core,9015,Desktop,Display,Orange
+2018,Qtr 4,December,Social,15029,Mobile,Video,Orange
+2018,Qtr 4,December,Social,5820,Mobile,Display,Orange
+2018,Qtr 4,December,Social,392,Desktop,Video,Orange
+2018,Qtr 4,December,Core,144,Mobile,Video,Orange
+2018,Qtr 4,December,Core,11266,Mobile,Display,Orange
+2018,Qtr 4,December,Core,5763,Desktop,Display,Orange
+2018,Qtr 4,November,Social,14390,Mobile,Video,Orange
+2018,Qtr 4,November,Social,6323,Mobile,Display,Orange
+2018,Qtr 4,November,Social,806,Desktop,Video,Orange
+2018,Qtr 4,November,Core,314,Mobile,Video,Orange
+2018,Qtr 4,November,Core,9827,Mobile,Display,Orange
+2017,Qtr 2,April,Core,218,Desktop,Display,Orange
+2018,Qtr 4,November,Core,3780,Desktop,Display,Orange
+2018,Qtr 4,October,New Business,1158,Mobile,Display,Orange
+2018,Qtr 4,October,Social,19842,Mobile,Video,Orange
+2018,Qtr 4,October,Social,11277,Mobile,Display,Orange
+2018,Qtr 4,October,Social,907,Desktop,Video,Orange
+2018,Qtr 4,October,Social,289,Desktop,Display,Orange
+2018,Qtr 4,October,Core,400,Mobile,Video,Orange
+2018,Qtr 4,October,Core,32245,Mobile,Display,Orange
+2018,Qtr 4,October,Core,324,Desktop,Video,Orange
+2018,Qtr 4,October,Core,13211,Desktop,Display,Orange
+2018,Qtr 3,September,New Business,1532,Mobile,Display,Orange
+2018,Qtr 3,September,Social,17223,Mobile,Video,Orange
+2018,Qtr 3,September,Social,6541,Mobile,Display,Orange
+2018,Qtr 3,September,Social,458,Desktop,Video,Orange
+2018,Qtr 3,September,Social,264,Desktop,Display,Orange
+2018,Qtr 3,September,Core,193,Mobile,Video,Orange
+2018,Qtr 3,September,Core,15137,Mobile,Display,Orange
+2018,Qtr 3,September,Core,133,Desktop,Video,Orange
+2018,Qtr 3,September,Core,5496,Desktop,Display,Orange
+2018,Qtr 3,August,New Business,1697,Mobile,Display,Orange
+2018,Qtr 3,August,New Business,273,Desktop,Video,Orange
+2018,Qtr 3,August,New Business,222,Desktop,Display,Orange
+2018,Qtr 3,August,Social,16468,Mobile,Video,Orange
+2018,Qtr 3,August,Social,10547,Mobile,Display,Orange
+2018,Qtr 3,August,Social,564,Desktop,Video,Orange
+2018,Qtr 3,August,Social,202,Desktop,Display,Orange
+2018,Qtr 3,August,Core,260,Mobile,Video,Orange
+2018,Qtr 3,August,Core,33637,Mobile,Display,Orange
+2018,Qtr 3,August,Core,503,Desktop,Video,Orange
+2018,Qtr 3,August,Core,6542,Desktop,Display,Orange
+2018,Qtr 3,July,New Business,854,Mobile,Display,Orange
+2018,Qtr 3,July,New Business,116,Desktop,Display,Orange
+2018,Qtr 3,July,Social,13563,Mobile,Video,Orange
+2018,Qtr 3,July,Social,9025,Mobile,Display,Orange
+2018,Qtr 3,July,Social,459,Desktop,Video,Orange
+2018,Qtr 3,July,Social,144,Desktop,Display,Orange
+2018,Qtr 3,July,Core,105,Mobile,Video,Orange
+2018,Qtr 3,July,Core,15418,Mobile,Display,Orange
+2018,Qtr 3,July,Core,266,Desktop,Video,Orange
+2018,Qtr 3,July,Core,7380,Desktop,Display,Orange
+2018,Qtr 2,June,New Business,594,Mobile,Display,Orange
+2017,Qtr 2,May,Core,103,Desktop,Display,Orange
+2018,Qtr 2,June,Social,9146,Mobile,Video,Orange
+2018,Qtr 2,June,Social,9074,Mobile,Display,Orange
+2018,Qtr 2,June,Social,166,Desktop,Video,Orange
+2018,Qtr 2,June,Core,7223,Mobile,Display,Orange
+2018,Qtr 2,June,Core,4693,Desktop,Display,Orange
+2018,Qtr 2,May,New Business,583,Mobile,Display,Orange
+2018,Qtr 2,May,New Business,161,Desktop,Video,Orange
+2018,Qtr 2,May,New Business,226,Desktop,Display,Orange
+2018,Qtr 2,May,Social,13331,Mobile,Video,Orange
+2018,Qtr 2,May,Social,8325,Mobile,Display,Orange
+2018,Qtr 2,May,Social,638,Desktop,Video,Orange
+2018,Qtr 2,May,Core,238,Mobile,Video,Orange
+2018,Qtr 2,May,Core,12587,Mobile,Display,Orange
+2018,Qtr 2,May,Core,410,Desktop,Video,Orange
+2018,Qtr 2,May,Core,9297,Desktop,Display,Orange
+2018,Qtr 2,April,New Business,1114,Mobile,Video,Orange
+2018,Qtr 2,April,New Business,1243,Mobile,Display,Orange
+2018,Qtr 2,April,New Business,108,Desktop,Display,Orange
+2018,Qtr 2,April,Social,23575,Mobile,Video,Orange
+2018,Qtr 2,April,Social,13794,Mobile,Display,Orange
+2018,Qtr 2,April,Social,1425,Desktop,Video,Orange
+2018,Qtr 2,April,Social,205,Desktop,Display,Orange
+2018,Qtr 2,April,Core,10559,Mobile,Display,Orange
+2018,Qtr 2,April,Core,109,Desktop,Video,Orange
+2018,Qtr 2,April,Core,9181,Desktop,Display,Orange
+2018,Qtr 1,March,New Business,412,Mobile,Display,Orange
+2018,Qtr 1,March,Social,14133,Mobile,Video,Orange
+2017,Qtr 2,May,Social,210,Mobile,Display,Orange
+2018,Qtr 1,March,Social,6022,Mobile,Display,Orange
+2018,Qtr 1,March,Social,532,Desktop,Video,Orange
+2018,Qtr 1,March,Core,122,Mobile,Video,Orange
+2018,Qtr 1,March,Core,3010,Mobile,Display,Orange
+2018,Qtr 1,March,Core,3369,Desktop,Display,Orange
+2018,Qtr 1,February,New Business,172,Mobile,Display,Orange
+2017,Qtr 2,May,Social,233,Mobile,Video,Orange
+2018,Qtr 1,February,Social,11980,Mobile,Video,Orange
+2018,Qtr 1,February,Social,6523,Mobile,Display,Orange
+2018,Qtr 1,February,Social,713,Desktop,Video,Orange
+2018,Qtr 1,February,Core,170,Mobile,Video,Orange
+2018,Qtr 1,February,Core,9635,Mobile,Display,Orange
+2018,Qtr 1,February,Core,157,Desktop,Video,Orange
+2018,Qtr 1,February,Core,5177,Desktop,Display,Orange
+2018,Qtr 1,January,Social,14035,Mobile,Video,Orange
+2018,Qtr 1,January,Social,4896,Mobile,Display,Orange
+2018,Qtr 1,January,Social,1021,Desktop,Video,Orange
+2018,Qtr 1,January,Core,164,Mobile,Video,Orange
+2018,Qtr 1,January,Core,8721,Mobile,Display,Orange
+2018,Qtr 1,January,Core,336,Desktop,Video,Orange
+2017,Qtr 2,June,Core,1171,Desktop,Display,Orange
+2018,Qtr 1,January,Core,6888,Desktop,Display,Orange
+2017,Qtr 4,December,Social,5378,Mobile,Video,Orange
+2017,Qtr 4,December,Social,2375,Mobile,Display,Orange
+2017,Qtr 4,December,Social,169,Desktop,Video,Orange
+2017,Qtr 4,December,Core,150,Mobile,Video,Orange
+2017,Qtr 4,December,Core,2571,Mobile,Display,Orange
+2017,Qtr 4,December,Core,3953,Desktop,Display,Orange
+2017,Qtr 4,November,Social,4583,Mobile,Video,Orange
+2017,Qtr 4,November,Social,1646,Mobile,Display,Orange
+2017,Qtr 4,November,Social,224,Desktop,Video,Orange
+2017,Qtr 4,November,Core,4817,Mobile,Display,Orange
+2017,Qtr 2,June,Core,529,Mobile,Display,Orange
+2017,Qtr 4,November,Core,5060,Desktop,Display,Orange
+2017,Qtr 4,October,Video Platform,591,Mobile,Video,Orange
+2017,Qtr 4,October,Social,9357,Mobile,Video,Orange
+2017,Qtr 4,October,Social,3518,Mobile,Display,Orange
+2017,Qtr 4,October,Social,173,Desktop,Video,Orange
+2017,Qtr 4,October,Core,6139,Mobile,Display,Orange
+2017,Qtr 2,June,Social,136,Desktop,Display,Orange
+2017,Qtr 4,October,Core,8563,Desktop,Display,Orange
+2017,Qtr 3,September,Social,3620,Mobile,Video,Orange
+2017,Qtr 2,June,Social,2286,Mobile,Display,Orange
+2017,Qtr 3,September,Social,2626,Mobile,Display,Orange
+2017,Qtr 3,September,Social,299,Desktop,Video,Orange
+2017,Qtr 3,September,Social,160,Desktop,Display,Orange
+2017,Qtr 3,September,Core,1784,Mobile,Display,Orange
+2017,Qtr 3,September,Core,1894,Desktop,Display,Orange
+2017,Qtr 3,August,Social,3470,Mobile,Video,Orange
+2017,Qtr 3,August,Social,1031,Mobile,Display,Orange
+2017,Qtr 2,June,Social,1334,Mobile,Video,Orange
+2017,Qtr 3,August,Social,141,Desktop,Video,Orange
+2017,Qtr 3,August,Core,663,Mobile,Display,Orange
+2017,Qtr 3,August,Core,2708,Desktop,Display,Orange
+2017,Qtr 3,July,Social,1461,Mobile,Video,Orange
+2017,Qtr 3,July,Social,1013,Mobile,Display,Orange
+2017,Qtr 3,July,Core,1496,Mobile,Display,Orange
+2017,Qtr 3,July,Core,1969,Desktop,Display,Orange
+2019,Qtr 3,September,Video Platform,3451,Mobile,Video,Kiwi
+2019,Qtr 3,September,Video Platform,324,Desktop,Video,Kiwi
+2019,Qtr 3,September,Social,11000,Mobile,Video,Kiwi
+2019,Qtr 3,September,Social,939,Mobile,Display,Kiwi
+2019,Qtr 3,September,Social,111,Desktop,Video,Kiwi
+2017,Qtr 1,January,Core,2147,Desktop,Display,Kiwi
+2019,Qtr 3,September,Core,297,Mobile,Display,Kiwi
+2019,Qtr 3,September,Core,128,Desktop,Display,Kiwi
+2019,Qtr 3,August,Video Platform,9725,Mobile,Video,Kiwi
+2019,Qtr 3,August,Video Platform,962,Desktop,Video,Kiwi
+2019,Qtr 3,August,Social,33402,Mobile,Video,Kiwi
+2019,Qtr 3,August,Social,2741,Mobile,Display,Kiwi
+2017,Qtr 1,January,Core,4146,Mobile,Display,Kiwi
+2019,Qtr 3,August,Social,701,Desktop,Video,Kiwi
+2019,Qtr 3,August,Core,112,Mobile,Video,Kiwi
+2019,Qtr 3,August,Core,1410,Mobile,Display,Kiwi
+2019,Qtr 3,August,Core,455,Desktop,Display,Kiwi
+2019,Qtr 3,July,Video Platform,18712,Mobile,Video,Kiwi
+2019,Qtr 3,July,Video Platform,1866,Desktop,Video,Kiwi
+2019,Qtr 3,July,Social,27363,Mobile,Video,Kiwi
+2019,Qtr 3,July,Social,6190,Mobile,Display,Kiwi
+2019,Qtr 3,July,Social,568,Desktop,Video,Kiwi
+2019,Qtr 3,July,Core,121,Mobile,Video,Kiwi
+2019,Qtr 3,July,Core,1478,Mobile,Display,Kiwi
+2019,Qtr 3,July,Core,111,Desktop,Video,Kiwi
+2019,Qtr 3,July,Core,378,Desktop,Display,Kiwi
+2019,Qtr 2,June,Experiment,223,Mobile,Video,Kiwi
+2019,Qtr 2,June,Video Platform,10395,Mobile,Video,Kiwi
+2019,Qtr 2,June,Video Platform,1005,Desktop,Video,Kiwi
+2019,Qtr 2,June,Social,18545,Mobile,Video,Kiwi
+2017,Qtr 1,February,Core,1997,Desktop,Display,Kiwi
+2019,Qtr 2,June,Social,4690,Mobile,Display,Kiwi
+2019,Qtr 2,June,Social,424,Desktop,Video,Kiwi
+2019,Qtr 2,June,Core,1349,Mobile,Display,Kiwi
+2019,Qtr 2,June,Core,308,Desktop,Display,Kiwi
+2017,Qtr 1,February,Core,4335,Mobile,Display,Kiwi
+2019,Qtr 2,May,Video Platform,7980,Mobile,Video,Kiwi
+2019,Qtr 2,May,Video Platform,622,Desktop,Video,Kiwi
+2019,Qtr 2,May,Social,30182,Mobile,Video,Kiwi
+2019,Qtr 2,May,Social,4844,Mobile,Display,Kiwi
+2019,Qtr 2,May,Social,340,Desktop,Video,Kiwi
+2019,Qtr 2,May,Core,3160,Mobile,Display,Kiwi
+2019,Qtr 2,May,Core,843,Desktop,Display,Kiwi
+2019,Qtr 2,April,Video Platform,5845,Mobile,Video,Kiwi
+2019,Qtr 2,April,Video Platform,719,Desktop,Video,Kiwi
+2019,Qtr 2,April,Social,25507,Mobile,Video,Kiwi
+2019,Qtr 2,April,Social,4434,Mobile,Display,Kiwi
+2019,Qtr 2,April,Social,502,Desktop,Video,Kiwi
+2019,Qtr 2,April,Core,156,Mobile,Video,Kiwi
+2019,Qtr 2,April,Core,1441,Mobile,Display,Kiwi
+2019,Qtr 2,April,Core,133,Desktop,Video,Kiwi
+2019,Qtr 2,April,Core,391,Desktop,Display,Kiwi
+2019,Qtr 1,March,Video Platform,4438,Mobile,Video,Kiwi
+2019,Qtr 1,March,Video Platform,630,Desktop,Video,Kiwi
+2019,Qtr 1,March,Social,28449,Mobile,Video,Kiwi
+2019,Qtr 1,March,Social,6137,Mobile,Display,Kiwi
+2019,Qtr 1,March,Social,382,Desktop,Video,Kiwi
+2019,Qtr 1,March,Core,168,Mobile,Video,Kiwi
+2017,Qtr 1,March,Core,2122,Desktop,Display,Kiwi
+2019,Qtr 1,March,Core,2336,Mobile,Display,Kiwi
+2019,Qtr 1,March,Core,189,Desktop,Video,Kiwi
+2019,Qtr 1,March,Core,567,Desktop,Display,Kiwi
+2019,Qtr 1,February,Video Platform,3341,Mobile,Video,Kiwi
+2019,Qtr 1,February,Video Platform,409,Desktop,Video,Kiwi
+2017,Qtr 1,March,Core,296,Desktop,Video,Kiwi
+2019,Qtr 1,February,Social,27887,Mobile,Video,Kiwi
+2019,Qtr 1,February,Social,1494,Mobile,Display,Kiwi
+2019,Qtr 1,February,Social,477,Desktop,Video,Kiwi
+2019,Qtr 1,February,Core,2426,Mobile,Display,Kiwi
+2017,Qtr 1,March,Core,2868,Mobile,Display,Kiwi
+2019,Qtr 1,February,Core,1763,Desktop,Display,Kiwi
+2019,Qtr 1,January,Video Platform,5308,Mobile,Video,Kiwi
+2019,Qtr 1,January,Video Platform,644,Desktop,Video,Kiwi
+2017,Qtr 1,March,Social,109,Desktop,Video,Kiwi
+2019,Qtr 1,January,Social,20011,Mobile,Video,Kiwi
+2019,Qtr 1,January,Social,3705,Mobile,Display,Kiwi
+2019,Qtr 1,January,Social,353,Desktop,Video,Kiwi
+2019,Qtr 1,January,Social,118,Desktop,Display,Kiwi
+2019,Qtr 1,January,Core,109,Mobile,Video,Kiwi
+2019,Qtr 1,January,Core,2507,Mobile,Display,Kiwi
+2019,Qtr 1,January,Core,2474,Desktop,Display,Kiwi
+2018,Qtr 4,December,Video Platform,4583,Mobile,Video,Kiwi
+2018,Qtr 4,December,Video Platform,839,Desktop,Video,Kiwi
+2018,Qtr 4,December,Social,23968,Mobile,Video,Kiwi
+2017,Qtr 1,March,Social,1400,Mobile,Video,Kiwi
+2018,Qtr 4,December,Social,3928,Mobile,Display,Kiwi
+2018,Qtr 4,December,Social,195,Desktop,Video,Kiwi
+2018,Qtr 4,December,Core,226,Mobile,Video,Kiwi
+2018,Qtr 4,December,Core,8109,Mobile,Display,Kiwi
+2018,Qtr 4,December,Core,135,Desktop,Video,Kiwi
+2018,Qtr 4,December,Core,3238,Desktop,Display,Kiwi
+2017,Qtr 1,March,Video Platform,199,Mobile,Video,Kiwi
+2018,Qtr 4,November,Video Platform,8528,Mobile,Video,Kiwi
+2018,Qtr 4,November,Video Platform,1172,Desktop,Video,Kiwi
+2018,Qtr 4,November,Social,20695,Mobile,Video,Kiwi
+2018,Qtr 4,November,Social,2095,Mobile,Display,Kiwi
+2018,Qtr 4,November,Social,336,Desktop,Video,Kiwi
+2018,Qtr 4,November,Core,192,Mobile,Video,Kiwi
+2018,Qtr 4,November,Core,4216,Mobile,Display,Kiwi
+2018,Qtr 4,November,Core,137,Desktop,Video,Kiwi
+2017,Qtr 2,April,Core,1920,Desktop,Display,Kiwi
+2018,Qtr 4,November,Core,2245,Desktop,Display,Kiwi
+2018,Qtr 4,October,Video Platform,13012,Mobile,Video,Kiwi
+2018,Qtr 4,October,Video Platform,1002,Desktop,Video,Kiwi
+2018,Qtr 4,October,Social,32856,Mobile,Video,Kiwi
+2018,Qtr 4,October,Social,1116,Mobile,Display,Kiwi
+2018,Qtr 4,October,Social,1036,Desktop,Video,Kiwi
+2017,Qtr 2,April,Core,238,Desktop,Video,Kiwi
+2018,Qtr 4,October,Core,186,Mobile,Video,Kiwi
+2018,Qtr 4,October,Core,5676,Mobile,Display,Kiwi
+2018,Qtr 4,October,Core,147,Desktop,Video,Kiwi
+2018,Qtr 4,October,Core,1603,Desktop,Display,Kiwi
+2017,Qtr 2,April,Core,3475,Mobile,Display,Kiwi
+2018,Qtr 3,September,Video Platform,9892,Mobile,Video,Kiwi
+2018,Qtr 3,September,Video Platform,859,Desktop,Video,Kiwi
+2018,Qtr 3,September,Social,33989,Mobile,Video,Kiwi
+2018,Qtr 3,September,Social,3209,Mobile,Display,Kiwi
+2018,Qtr 3,September,Social,1090,Desktop,Video,Kiwi
+2018,Qtr 3,September,Social,210,Desktop,Display,Kiwi
+2018,Qtr 3,September,Core,251,Mobile,Video,Kiwi
+2018,Qtr 3,September,Core,7303,Mobile,Display,Kiwi
+2018,Qtr 3,September,Core,218,Desktop,Video,Kiwi
+2018,Qtr 3,September,Core,1505,Desktop,Display,Kiwi
+2017,Qtr 2,April,Social,666,Mobile,Display,Kiwi
+2018,Qtr 3,August,Video Platform,6886,Mobile,Video,Kiwi
+2018,Qtr 3,August,Video Platform,1622,Desktop,Video,Kiwi
+2018,Qtr 3,August,Social,30233,Mobile,Video,Kiwi
+2018,Qtr 3,August,Social,1839,Mobile,Display,Kiwi
+2018,Qtr 3,August,Social,687,Desktop,Video,Kiwi
+2018,Qtr 3,August,Core,4743,Mobile,Display,Kiwi
+2018,Qtr 3,August,Core,190,Desktop,Video,Kiwi
+2017,Qtr 2,April,Social,2144,Mobile,Video,Kiwi
+2018,Qtr 3,August,Core,2927,Desktop,Display,Kiwi
+2018,Qtr 3,July,Video Platform,7122,Mobile,Video,Kiwi
+2018,Qtr 3,July,Video Platform,1068,Desktop,Video,Kiwi
+2018,Qtr 3,July,Social,10336,Mobile,Video,Kiwi
+2018,Qtr 3,July,Social,1550,Mobile,Display,Kiwi
+2017,Qtr 2,April,Video Platform,190,Desktop,Video,Kiwi
+2017,Qtr 2,April,Video Platform,650,Mobile,Video,Kiwi
+2018,Qtr 3,July,Social,318,Desktop,Video,Kiwi
+2018,Qtr 3,July,Core,4313,Mobile,Display,Kiwi
+2018,Qtr 3,July,Core,145,Desktop,Video,Kiwi
+2018,Qtr 3,July,Core,1717,Desktop,Display,Kiwi
+2018,Qtr 2,June,Video Platform,7812,Mobile,Video,Kiwi
+2018,Qtr 2,June,Video Platform,991,Desktop,Video,Kiwi
+2018,Qtr 2,June,Social,12904,Mobile,Video,Kiwi
+2017,Qtr 2,May,Core,1746,Desktop,Display,Kiwi
+2018,Qtr 2,June,Social,3760,Mobile,Display,Kiwi
+2018,Qtr 2,June,Social,192,Desktop,Video,Kiwi
+2018,Qtr 2,June,Core,5158,Mobile,Display,Kiwi
+2018,Qtr 2,June,Core,114,Desktop,Video,Kiwi
+2018,Qtr 2,June,Core,1368,Desktop,Display,Kiwi
+2018,Qtr 2,May,Video Platform,10213,Mobile,Video,Kiwi
+2018,Qtr 2,May,Video Platform,1308,Desktop,Video,Kiwi
+2017,Qtr 2,May,Core,286,Desktop,Video,Kiwi
+2018,Qtr 2,May,Social,14765,Mobile,Video,Kiwi
+2018,Qtr 2,May,Social,9293,Mobile,Display,Kiwi
+2018,Qtr 2,May,Social,237,Desktop,Video,Kiwi
+2018,Qtr 2,May,Core,4170,Mobile,Display,Kiwi
+2018,Qtr 2,May,Core,124,Desktop,Video,Kiwi
+2018,Qtr 2,May,Core,1587,Desktop,Display,Kiwi
+2017,Qtr 2,May,Core,3645,Mobile,Display,Kiwi
+2018,Qtr 2,April,Video Platform,11987,Mobile,Video,Kiwi
+2018,Qtr 2,April,Video Platform,1461,Desktop,Video,Kiwi
+2018,Qtr 2,April,Social,5881,Mobile,Video,Kiwi
+2018,Qtr 2,April,Social,7546,Mobile,Display,Kiwi
+2018,Qtr 2,April,Social,104,Desktop,Video,Kiwi
+2018,Qtr 2,April,Core,116,Mobile,Video,Kiwi
+2018,Qtr 2,April,Core,6785,Mobile,Display,Kiwi
+2018,Qtr 2,April,Core,198,Desktop,Video,Kiwi
+2017,Qtr 2,May,Core,207,Mobile,Video,Kiwi
+2018,Qtr 2,April,Core,2696,Desktop,Display,Kiwi
+2017,Qtr 2,May,Social,187,Desktop,Video,Kiwi
+2018,Qtr 1,March,Video Platform,7065,Mobile,Video,Kiwi
+2018,Qtr 1,March,Video Platform,973,Desktop,Video,Kiwi
+2018,Qtr 1,March,Social,9917,Mobile,Video,Kiwi
+2017,Qtr 2,May,Social,1271,Mobile,Display,Kiwi
+2018,Qtr 1,March,Social,4597,Mobile,Display,Kiwi
+2018,Qtr 1,March,Core,105,Mobile,Video,Kiwi
+2018,Qtr 1,March,Core,3846,Mobile,Display,Kiwi
+2018,Qtr 1,March,Core,238,Desktop,Video,Kiwi
+2018,Qtr 1,March,Core,1686,Desktop,Display,Kiwi
+2018,Qtr 1,February,Video Platform,3425,Mobile,Video,Kiwi
+2018,Qtr 1,February,Video Platform,489,Desktop,Video,Kiwi
+2017,Qtr 2,May,Social,3549,Mobile,Video,Kiwi
+2018,Qtr 1,February,Social,3363,Mobile,Video,Kiwi
+2018,Qtr 1,February,Social,280,Mobile,Display,Kiwi
+2018,Qtr 1,February,Core,2256,Mobile,Display,Kiwi
+2017,Qtr 2,May,Video Platform,389,Desktop,Video,Kiwi
+2017,Qtr 2,May,Video Platform,1121,Mobile,Video,Kiwi
+2018,Qtr 1,February,Core,657,Desktop,Display,Kiwi
+2018,Qtr 1,January,Video Platform,2745,Mobile,Video,Kiwi
+2018,Qtr 1,January,Video Platform,440,Desktop,Video,Kiwi
+2018,Qtr 1,January,Social,3903,Mobile,Video,Kiwi
+2018,Qtr 1,January,Social,133,Mobile,Display,Kiwi
+2018,Qtr 1,January,Core,1435,Mobile,Display,Kiwi
+2018,Qtr 1,January,Core,147,Desktop,Video,Kiwi
+2018,Qtr 1,January,Core,574,Desktop,Display,Kiwi
+2017,Qtr 2,June,Core,1745,Desktop,Display,Kiwi
+2017,Qtr 4,December,Video Platform,4855,Mobile,Video,Kiwi
+2017,Qtr 4,December,Video Platform,759,Desktop,Video,Kiwi
+2017,Qtr 4,December,Social,5622,Mobile,Video,Kiwi
+2017,Qtr 4,December,Social,1248,Mobile,Display,Kiwi
+2017,Qtr 4,December,Social,161,Desktop,Video,Kiwi
+2017,Qtr 4,December,Core,3691,Mobile,Display,Kiwi
+2017,Qtr 4,December,Core,123,Desktop,Video,Kiwi
+2017,Qtr 4,December,Core,862,Desktop,Display,Kiwi
+2017,Qtr 2,June,Core,350,Desktop,Video,Kiwi
+2017,Qtr 4,November,Video Platform,3421,Mobile,Video,Kiwi
+2017,Qtr 4,November,Video Platform,628,Desktop,Video,Kiwi
+2017,Qtr 4,November,Social,4692,Mobile,Video,Kiwi
+2017,Qtr 4,November,Social,794,Mobile,Display,Kiwi
+2017,Qtr 4,November,Social,123,Desktop,Video,Kiwi
+2017,Qtr 4,November,Core,2164,Mobile,Display,Kiwi
+2017,Qtr 2,June,Core,3481,Mobile,Display,Kiwi
+2017,Qtr 4,November,Core,604,Desktop,Display,Kiwi
+2017,Qtr 4,October,Video Platform,1606,Mobile,Video,Kiwi
+2017,Qtr 4,October,Video Platform,501,Desktop,Video,Kiwi
+2017,Qtr 4,October,Social,6943,Mobile,Video,Kiwi
+2017,Qtr 4,October,Social,1748,Mobile,Display,Kiwi
+2017,Qtr 4,October,Social,146,Desktop,Video,Kiwi
+2017,Qtr 4,October,Core,3354,Mobile,Display,Kiwi
+2017,Qtr 4,October,Core,176,Desktop,Video,Kiwi
+2017,Qtr 2,June,Social,122,Desktop,Video,Kiwi
+2017,Qtr 4,October,Core,1532,Desktop,Display,Kiwi
+2017,Qtr 3,September,Video Platform,1889,Mobile,Video,Kiwi
+2017,Qtr 3,September,Video Platform,496,Desktop,Video,Kiwi
+2017,Qtr 3,September,Social,4425,Mobile,Video,Kiwi
+2017,Qtr 2,June,Social,309,Mobile,Display,Kiwi
+2017,Qtr 3,September,Social,999,Mobile,Display,Kiwi
+2017,Qtr 3,September,Social,240,Desktop,Video,Kiwi
+2017,Qtr 3,September,Core,114,Mobile,Video,Kiwi
+2017,Qtr 3,September,Core,3752,Mobile,Display,Kiwi
+2017,Qtr 3,September,Core,254,Desktop,Video,Kiwi
+2017,Qtr 3,September,Core,2191,Desktop,Display,Kiwi
+2017,Qtr 3,August,Video Platform,2001,Mobile,Video,Kiwi
+2017,Qtr 3,August,Video Platform,418,Desktop,Video,Kiwi
+2017,Qtr 3,August,Social,3974,Mobile,Video,Kiwi
+2017,Qtr 3,August,Social,939,Mobile,Display,Kiwi
+2017,Qtr 3,August,Social,216,Desktop,Video,Kiwi
+2017,Qtr 2,June,Social,1903,Mobile,Video,Kiwi
+2017,Qtr 3,August,Core,116,Mobile,Video,Kiwi
+2017,Qtr 3,August,Core,5141,Mobile,Display,Kiwi
+2017,Qtr 3,August,Core,284,Desktop,Video,Kiwi
+2017,Qtr 3,August,Core,2532,Desktop,Display,Kiwi
+2017,Qtr 3,July,Video Platform,2029,Mobile,Video,Kiwi
+2017,Qtr 3,July,Video Platform,517,Desktop,Video,Kiwi
+2017,Qtr 3,July,Social,1102,Mobile,Video,Kiwi
+2017,Qtr 2,June,Video Platform,466,Desktop,Video,Kiwi
+2017,Qtr 3,July,Social,170,Mobile,Display,Kiwi
+2017,Qtr 3,July,Core,108,Mobile,Video,Kiwi
+2017,Qtr 2,June,Video Platform,1329,Mobile,Video,Kiwi
+2017,Qtr 3,July,Core,4125,Mobile,Display,Kiwi
+2017,Qtr 3,July,Core,232,Desktop,Video,Kiwi
+2017,Qtr 3,July,Core,2057,Desktop,Display,Kiwi
+2019,Qtr 3,September,Social,107,Mobile,Video,Amazon
+2019,Qtr 3,September,Social,352,Mobile,Display,Amazon
+2019,Qtr 3,September,Core,938,Mobile,Display,Amazon
+2019,Qtr 3,September,Core,107,Desktop,Video,Amazon
+2017,Qtr 1,January,Core,18144,Desktop,Display,Amazon
+2019,Qtr 3,September,Core,2447,Desktop,Display,Amazon
+2019,Qtr 3,August,Social,169,Mobile,Video,Amazon
+2019,Qtr 3,August,Social,187,Mobile,Display,Amazon
+2017,Qtr 1,January,Core,3104,Mobile,Display,Amazon
+2019,Qtr 3,August,Core,502,Mobile,Display,Amazon
+2019,Qtr 3,August,Core,187,Desktop,Video,Amazon
+2019,Qtr 3,August,Core,2936,Desktop,Display,Amazon
+2017,Qtr 1,January,Social,207,Mobile,Display,Amazon
+2017,Qtr 1,January,Social,417,Mobile,Video,Amazon
+2019,Qtr 3,July,Core,576,Desktop,Display,Amazon
+2019,Qtr 2,June,Social,407,Mobile,Video,Amazon
+2019,Qtr 2,June,Social,2523,Mobile,Display,Amazon
+2017,Qtr 1,February,Core,13800,Desktop,Display,Amazon
+2019,Qtr 2,June,Core,1144,Mobile,Video,Amazon
+2019,Qtr 2,June,Core,10584,Mobile,Display,Amazon
+2019,Qtr 2,June,Core,561,Desktop,Video,Amazon
+2019,Qtr 2,June,Core,7882,Desktop,Display,Amazon
+2017,Qtr 1,February,Core,1905,Mobile,Display,Amazon
+2019,Qtr 2,May,Social,585,Mobile,Video,Amazon
+2019,Qtr 2,May,Social,226,Mobile,Display,Amazon
+2017,Qtr 1,February,Social,158,Desktop,Video,Amazon
+2019,Qtr 2,May,Core,1059,Mobile,Video,Amazon
+2019,Qtr 2,May,Core,9994,Mobile,Display,Amazon
+2019,Qtr 2,May,Core,611,Desktop,Video,Amazon
+2017,Qtr 1,February,Social,863,Mobile,Display,Amazon
+2019,Qtr 2,May,Core,5598,Desktop,Display,Amazon
+2019,Qtr 2,April,Social,406,Mobile,Video,Amazon
+2019,Qtr 2,April,Social,802,Mobile,Display,Amazon
+2017,Qtr 1,February,Social,926,Mobile,Video,Amazon
+2019,Qtr 2,April,Core,417,Mobile,Video,Amazon
+2019,Qtr 2,April,Core,2911,Mobile,Display,Amazon
+2019,Qtr 2,April,Core,174,Desktop,Video,Amazon
+2019,Qtr 2,April,Core,3106,Desktop,Display,Amazon
+2019,Qtr 1,March,Video Platform,285,Mobile,Video,Amazon
+2019,Qtr 1,March,Social,695,Mobile,Video,Amazon
+2019,Qtr 1,March,Social,347,Mobile,Display,Amazon
+2019,Qtr 1,March,Core,3123,Mobile,Video,Amazon
+2019,Qtr 1,March,Core,17436,Mobile,Display,Amazon
+2017,Qtr 1,March,Core,17643,Desktop,Display,Amazon
+2019,Qtr 1,March,Core,1493,Desktop,Video,Amazon
+2019,Qtr 1,March,Core,9619,Desktop,Display,Amazon
+2019,Qtr 1,February,Video Platform,700,Mobile,Video,Amazon
+2019,Qtr 1,February,Video Platform,198,Desktop,Video,Amazon
+2019,Qtr 1,February,Social,741,Mobile,Video,Amazon
+2019,Qtr 1,February,Social,412,Mobile,Display,Amazon
+2019,Qtr 1,February,Core,740,Mobile,Video,Amazon
+2019,Qtr 1,February,Core,3903,Mobile,Display,Amazon
+2019,Qtr 1,February,Core,333,Desktop,Video,Amazon
+2017,Qtr 1,March,Core,2665,Mobile,Display,Amazon
+2019,Qtr 1,February,Core,3281,Desktop,Display,Amazon
+2019,Qtr 1,January,Video Platform,1391,Mobile,Video,Amazon
+2019,Qtr 1,January,Video Platform,408,Desktop,Video,Amazon
+2019,Qtr 1,January,Social,1657,Mobile,Video,Amazon
+2017,Qtr 1,March,Social,448,Desktop,Video,Amazon
+2019,Qtr 1,January,Social,631,Mobile,Display,Amazon
+2019,Qtr 1,January,Social,103,Desktop,Video,Amazon
+2017,Qtr 1,March,Social,201,Mobile,Display,Amazon
+2019,Qtr 1,January,Core,1570,Mobile,Display,Amazon
+2019,Qtr 1,January,Core,258,Desktop,Video,Amazon
+2019,Qtr 1,January,Core,2685,Desktop,Display,Amazon
+2018,Qtr 4,December,Video Platform,2639,Mobile,Video,Amazon
+2018,Qtr 4,December,Video Platform,368,Desktop,Video,Amazon
+2018,Qtr 4,December,Social,3764,Mobile,Video,Amazon
+2018,Qtr 4,December,Social,1625,Mobile,Display,Amazon
+2017,Qtr 1,March,Social,2819,Mobile,Video,Amazon
+2018,Qtr 4,December,Core,1019,Mobile,Video,Amazon
+2018,Qtr 4,December,Core,15446,Mobile,Display,Amazon
+2018,Qtr 4,December,Core,1574,Desktop,Video,Amazon
+2018,Qtr 4,December,Core,10418,Desktop,Display,Amazon
+2018,Qtr 4,November,Video Platform,1034,Mobile,Video,Amazon
+2018,Qtr 4,November,Video Platform,320,Desktop,Video,Amazon
+2018,Qtr 4,November,Social,1560,Mobile,Video,Amazon
+2018,Qtr 4,November,Social,693,Mobile,Display,Amazon
+2018,Qtr 4,November,Core,407,Mobile,Video,Amazon
+2018,Qtr 4,November,Core,4992,Mobile,Display,Amazon
+2018,Qtr 4,November,Core,672,Desktop,Video,Amazon
+2018,Qtr 4,November,Core,8530,Desktop,Display,Amazon
+2017,Qtr 2,April,Core,8095,Desktop,Display,Amazon
+2018,Qtr 4,October,Video Platform,458,Mobile,Video,Amazon
+2018,Qtr 4,October,Video Platform,146,Desktop,Video,Amazon
+2018,Qtr 4,October,Social,1337,Mobile,Video,Amazon
+2018,Qtr 4,October,Social,1286,Mobile,Display,Amazon
+2018,Qtr 4,October,Core,121,Mobile,Video,Amazon
+2018,Qtr 4,October,Core,2055,Mobile,Display,Amazon
+2018,Qtr 4,October,Core,213,Desktop,Video,Amazon
+2018,Qtr 4,October,Core,4581,Desktop,Display,Amazon
+2018,Qtr 3,September,Video Platform,582,Mobile,Video,Amazon
+2018,Qtr 3,September,Video Platform,182,Desktop,Video,Amazon
+2017,Qtr 2,April,Core,1124,Mobile,Display,Amazon
+2018,Qtr 3,September,Social,2140,Mobile,Video,Amazon
+2018,Qtr 3,September,Social,1230,Mobile,Display,Amazon
+2018,Qtr 3,September,Core,332,Mobile,Video,Amazon
+2018,Qtr 3,September,Core,9647,Mobile,Display,Amazon
+2018,Qtr 3,September,Core,328,Desktop,Video,Amazon
+2018,Qtr 3,September,Core,15522,Desktop,Display,Amazon
+2018,Qtr 3,August,Video Platform,182,Mobile,Video,Amazon
+2018,Qtr 3,August,Social,313,Mobile,Video,Amazon
+2018,Qtr 3,August,Core,2259,Mobile,Display,Amazon
+2018,Qtr 3,August,Core,191,Desktop,Video,Amazon
+2018,Qtr 3,August,Core,12245,Desktop,Display,Amazon
+2017,Qtr 2,April,Social,1011,Mobile,Video,Amazon
+2018,Qtr 3,July,Social,171,Mobile,Video,Amazon
+2018,Qtr 3,July,Core,434,Mobile,Display,Amazon
+2018,Qtr 3,July,Core,4338,Desktop,Display,Amazon
+2018,Qtr 2,June,New Business,307,Desktop,Display,Amazon
+2018,Qtr 2,June,Video Platform,1052,Mobile,Video,Amazon
+2018,Qtr 2,June,Video Platform,304,Desktop,Video,Amazon
+2018,Qtr 2,June,Social,1340,Mobile,Video,Amazon
+2018,Qtr 2,June,Social,1408,Mobile,Display,Amazon
+2018,Qtr 2,June,Social,119,Desktop,Video,Amazon
+2017,Qtr 2,May,Core,13679,Desktop,Display,Amazon
+2018,Qtr 2,June,Core,109,Mobile,Video,Amazon
+2018,Qtr 2,June,Core,6126,Mobile,Display,Amazon
+2018,Qtr 2,June,Core,332,Desktop,Video,Amazon
+2018,Qtr 2,June,Core,16554,Desktop,Display,Amazon
+2018,Qtr 2,May,New Business,166,Mobile,Display,Amazon
+2018,Qtr 2,May,New Business,290,Desktop,Display,Amazon
+2018,Qtr 2,May,Video Platform,1624,Mobile,Video,Amazon
+2018,Qtr 2,May,Video Platform,572,Desktop,Video,Amazon
+2018,Qtr 2,May,Social,1898,Mobile,Video,Amazon
+2018,Qtr 2,May,Social,298,Mobile,Display,Amazon
+2018,Qtr 2,May,Social,196,Desktop,Video,Amazon
+2018,Qtr 2,May,Core,5144,Mobile,Display,Amazon
+2018,Qtr 2,May,Core,271,Desktop,Video,Amazon
+2018,Qtr 2,May,Core,13701,Desktop,Display,Amazon
+2018,Qtr 2,April,New Business,444,Desktop,Display,Amazon
+2018,Qtr 2,April,Video Platform,278,Mobile,Video,Amazon
+2017,Qtr 2,May,Core,1858,Mobile,Display,Amazon
+2018,Qtr 2,April,Social,601,Mobile,Video,Amazon
+2018,Qtr 2,April,Social,506,Mobile,Display,Amazon
+2018,Qtr 2,April,Core,4165,Mobile,Display,Amazon
+2018,Qtr 2,April,Core,16142,Desktop,Display,Amazon
+2018,Qtr 1,March,Video Platform,1434,Mobile,Video,Amazon
+2018,Qtr 1,March,Video Platform,546,Desktop,Video,Amazon
+2018,Qtr 1,March,Social,2163,Mobile,Video,Amazon
+2018,Qtr 1,March,Social,736,Mobile,Display,Amazon
+2018,Qtr 1,March,Social,290,Desktop,Video,Amazon
+2017,Qtr 2,May,Social,533,Mobile,Display,Amazon
+2018,Qtr 1,March,Core,185,Mobile,Video,Amazon
+2018,Qtr 1,March,Core,13204,Mobile,Display,Amazon
+2018,Qtr 1,March,Core,542,Desktop,Video,Amazon
+2018,Qtr 1,March,Core,17755,Desktop,Display,Amazon
+2018,Qtr 1,February,New Business,249,Mobile,Display,Amazon
+2018,Qtr 1,February,Video Platform,1494,Mobile,Video,Amazon
+2018,Qtr 1,February,Video Platform,495,Desktop,Video,Amazon
+2018,Qtr 1,February,Social,1363,Mobile,Video,Amazon
+2017,Qtr 2,May,Social,768,Mobile,Video,Amazon
+2018,Qtr 1,February,Social,317,Mobile,Display,Amazon
+2018,Qtr 1,February,Social,126,Desktop,Video,Amazon
+2018,Qtr 1,February,Core,6241,Mobile,Display,Amazon
+2018,Qtr 1,February,Core,352,Desktop,Video,Amazon
+2018,Qtr 1,February,Core,22672,Desktop,Display,Amazon
+2018,Qtr 1,January,Video Platform,1433,Mobile,Video,Amazon
+2018,Qtr 1,January,Video Platform,331,Desktop,Video,Amazon
+2018,Qtr 1,January,Social,2020,Mobile,Video,Amazon
+2018,Qtr 1,January,Social,202,Mobile,Display,Amazon
+2018,Qtr 1,January,Social,131,Desktop,Video,Amazon
+2018,Qtr 1,January,Core,3460,Mobile,Display,Amazon
+2018,Qtr 1,January,Core,480,Desktop,Video,Amazon
+2018,Qtr 1,January,Core,17718,Desktop,Display,Amazon
+2017,Qtr 4,December,New Business,449,Mobile,Display,Amazon
+2017,Qtr 4,December,New Business,158,Desktop,Display,Amazon
+2017,Qtr 4,December,Video Platform,2090,Mobile,Video,Amazon
+2017,Qtr 4,December,Video Platform,718,Desktop,Video,Amazon
+2017,Qtr 2,June,Core,32868,Desktop,Display,Amazon
+2017,Qtr 4,December,Social,4245,Mobile,Video,Amazon
+2017,Qtr 4,December,Social,2114,Mobile,Display,Amazon
+2017,Qtr 4,December,Social,262,Desktop,Video,Amazon
+2017,Qtr 4,December,Core,8882,Mobile,Display,Amazon
+2017,Qtr 4,December,Core,537,Desktop,Video,Amazon
+2017,Qtr 4,December,Core,44222,Desktop,Display,Amazon
+2017,Qtr 2,June,Core,139,Desktop,Video,Amazon
+2017,Qtr 4,November,New Business,578,Mobile,Display,Amazon
+2017,Qtr 4,November,New Business,720,Desktop,Display,Amazon
+2017,Qtr 4,November,Video Platform,529,Mobile,Video,Amazon
+2017,Qtr 4,November,Video Platform,188,Desktop,Video,Amazon
+2017,Qtr 4,November,Social,1981,Mobile,Video,Amazon
+2017,Qtr 4,November,Social,838,Mobile,Display,Amazon
+2017,Qtr 4,November,Social,215,Desktop,Video,Amazon
+2017,Qtr 4,November,Core,4908,Mobile,Display,Amazon
+2017,Qtr 4,November,Core,189,Desktop,Video,Amazon
+2017,Qtr 4,November,Core,57564,Desktop,Display,Amazon
+2017,Qtr 4,October,New Business,212,Mobile,Display,Amazon
+2017,Qtr 4,October,New Business,985,Desktop,Display,Amazon
+2017,Qtr 2,June,Core,8579,Mobile,Display,Amazon
+2017,Qtr 4,October,Social,984,Mobile,Video,Amazon
+2017,Qtr 4,October,Social,561,Mobile,Display,Amazon
+2017,Qtr 4,October,Social,175,Desktop,Video,Amazon
+2017,Qtr 4,October,Core,1726,Mobile,Display,Amazon
+2017,Qtr 4,October,Core,171,Desktop,Video,Amazon
+2017,Qtr 4,October,Core,32030,Desktop,Display,Amazon
+2017,Qtr 2,June,Social,273,Desktop,Video,Amazon
+2017,Qtr 3,September,New Business,205,Mobile,Display,Amazon
+2017,Qtr 3,September,New Business,105,Desktop,Display,Amazon
+2017,Qtr 3,September,Video Platform,804,Mobile,Video,Amazon
+2017,Qtr 3,September,Video Platform,361,Desktop,Video,Amazon
+2017,Qtr 3,September,Social,2448,Mobile,Video,Amazon
+2017,Qtr 3,September,Social,301,Mobile,Display,Amazon
+2017,Qtr 3,September,Social,327,Desktop,Video,Amazon
+2017,Qtr 2,June,Social,1430,Mobile,Display,Amazon
+2017,Qtr 3,September,Core,1835,Mobile,Display,Amazon
+2017,Qtr 3,September,Core,27909,Desktop,Display,Amazon
+2017,Qtr 3,August,Social,1036,Mobile,Video,Amazon
+2017,Qtr 2,June,Social,2396,Mobile,Video,Amazon
+2017,Qtr 3,August,Core,469,Mobile,Display,Amazon
+2017,Qtr 3,August,Core,7607,Desktop,Display,Amazon
+2017,Qtr 3,July,Social,223,Mobile,Video,Amazon
+2017,Qtr 2,June,Video Platform,304,Desktop,Video,Amazon
+2017,Qtr 3,July,Core,1364,Mobile,Display,Amazon
+2017,Qtr 2,June,Video Platform,420,Mobile,Video,Amazon
+2017,Qtr 3,July,Core,7454,Desktop,Display,Amazon
+2019,Qtr 3,August,Core,12911,Desktop,Display,Nile
+2019,Qtr 3,July,Core,29827,Desktop,Display,Nile
+2019,Qtr 2,June,Core,33398,Desktop,Display,Nile
+2019,Qtr 2,May,Core,19931,Desktop,Display,Nile
+2019,Qtr 2,April,Core,15063,Desktop,Display,Nile
+2019,Qtr 1,March,Core,18280,Desktop,Display,Nile
+2019,Qtr 1,February,Core,34575,Desktop,Display,Nile
+2019,Qtr 1,January,Core,77964,Desktop,Display,Nile
+2018,Qtr 4,December,Core,77647,Desktop,Display,Nile
+2018,Qtr 4,November,Core,91115,Desktop,Display,Nile
+2018,Qtr 4,October,Core,74583,Desktop,Display,Nile
+2018,Qtr 3,September,Core,99789,Desktop,Display,Nile
+2018,Qtr 3,August,Core,93190,Desktop,Display,Nile
+2018,Qtr 3,July,Core,56766,Desktop,Display,Nile
+2018,Qtr 2,June,Core,49581,Desktop,Display,Nile
+2019,Qtr 3,September,Video Platform,268,Mobile,Video,Mississippi
+2019,Qtr 3,September,Social,1809,Mobile,Video,Mississippi
+2019,Qtr 3,September,Social,117,Mobile,Display,Mississippi
+2019,Qtr 3,September,Core,1608,Mobile,Display,Mississippi
+2019,Qtr 3,September,Core,1834,Desktop,Display,Mississippi
+2017,Qtr 1,January,Core,15389,Desktop,Display,Mississippi
+2019,Qtr 3,August,Video Platform,1397,Mobile,Video,Mississippi
+2019,Qtr 3,August,Video Platform,659,Desktop,Video,Mississippi
+2019,Qtr 3,August,Social,6482,Mobile,Video,Mississippi
+2019,Qtr 3,August,Social,704,Mobile,Display,Mississippi
+2019,Qtr 3,August,Social,375,Desktop,Video,Mississippi
+2019,Qtr 3,August,Core,13654,Mobile,Display,Mississippi
+2017,Qtr 1,January,Core,7570,Mobile,Display,Mississippi
+2017,Qtr 1,January,Social,170,Desktop,Display,Mississippi
+2019,Qtr 3,August,Core,10623,Desktop,Display,Mississippi
+2019,Qtr 3,July,Video Platform,1376,Mobile,Video,Mississippi
+2019,Qtr 3,July,Video Platform,801,Desktop,Video,Mississippi
+2017,Qtr 1,January,Social,626,Mobile,Display,Mississippi
+2019,Qtr 3,July,Social,5540,Mobile,Video,Mississippi
+2019,Qtr 3,July,Social,615,Mobile,Display,Mississippi
+2019,Qtr 3,July,Social,238,Desktop,Video,Mississippi
+2019,Qtr 3,July,Core,26916,Mobile,Display,Mississippi
+2019,Qtr 3,July,Core,17830,Desktop,Display,Mississippi
+2019,Qtr 2,June,Video Platform,503,Mobile,Video,Mississippi
+2019,Qtr 2,June,Video Platform,338,Desktop,Video,Mississippi
+2019,Qtr 2,June,Social,5742,Mobile,Video,Mississippi
+2019,Qtr 2,June,Social,1497,Mobile,Display,Mississippi
+2019,Qtr 2,June,Social,285,Desktop,Video,Mississippi
+2017,Qtr 1,February,Core,22867,Desktop,Display,Mississippi
+2019,Qtr 2,June,Core,28782,Mobile,Display,Mississippi
+2019,Qtr 2,June,Core,23606,Desktop,Display,Mississippi
+2019,Qtr 2,May,Video Platform,391,Mobile,Video,Mississippi
+2019,Qtr 2,May,Video Platform,275,Desktop,Video,Mississippi
+2019,Qtr 2,May,Social,5072,Mobile,Video,Mississippi
+2017,Qtr 1,February,Core,7503,Mobile,Display,Mississippi
+2019,Qtr 2,May,Social,1946,Mobile,Display,Mississippi
+2019,Qtr 2,May,Social,231,Desktop,Video,Mississippi
+2019,Qtr 2,May,Core,23890,Mobile,Display,Mississippi
+2019,Qtr 2,May,Core,18845,Desktop,Display,Mississippi
+2019,Qtr 2,April,Video Platform,367,Mobile,Video,Mississippi
+2017,Qtr 1,February,Social,458,Mobile,Display,Mississippi
+2019,Qtr 2,April,Video Platform,373,Desktop,Video,Mississippi
+2019,Qtr 2,April,Social,4345,Mobile,Video,Mississippi
+2019,Qtr 2,April,Social,1128,Mobile,Display,Mississippi
+2019,Qtr 2,April,Social,137,Desktop,Video,Mississippi
+2019,Qtr 2,April,Core,19600,Mobile,Display,Mississippi
+2019,Qtr 2,April,Core,10527,Desktop,Display,Mississippi
+2019,Qtr 1,March,Video Platform,385,Mobile,Video,Mississippi
+2019,Qtr 1,March,Video Platform,312,Desktop,Video,Mississippi
+2019,Qtr 1,March,Social,4111,Mobile,Video,Mississippi
+2019,Qtr 1,March,Social,893,Mobile,Display,Mississippi
+2019,Qtr 1,March,Social,140,Desktop,Video,Mississippi
+2019,Qtr 1,March,Core,12690,Mobile,Display,Mississippi
+2019,Qtr 1,March,Core,8759,Desktop,Display,Mississippi
+2017,Qtr 1,March,Core,36552,Desktop,Display,Mississippi
+2019,Qtr 1,February,Video Platform,592,Mobile,Video,Mississippi
+2019,Qtr 1,February,Video Platform,274,Desktop,Video,Mississippi
+2019,Qtr 1,February,Social,5585,Mobile,Video,Mississippi
+2019,Qtr 1,February,Social,1473,Mobile,Display,Mississippi
+2019,Qtr 1,February,Social,261,Desktop,Video,Mississippi
+2019,Qtr 1,February,Core,11663,Mobile,Display,Mississippi
+2019,Qtr 1,February,Core,12343,Desktop,Display,Mississippi
+2017,Qtr 1,March,Core,18074,Mobile,Display,Mississippi
+2019,Qtr 1,January,Video Platform,788,Mobile,Video,Mississippi
+2019,Qtr 1,January,Video Platform,308,Desktop,Video,Mississippi
+2017,Qtr 1,March,Social,150,Desktop,Display,Mississippi
+2019,Qtr 1,January,Social,7113,Mobile,Video,Mississippi
+2019,Qtr 1,January,Social,2781,Mobile,Display,Mississippi
+2019,Qtr 1,January,Social,257,Desktop,Video,Mississippi
+2019,Qtr 1,January,Social,134,Desktop,Display,Mississippi
+2019,Qtr 1,January,Core,16417,Mobile,Display,Mississippi
+2017,Qtr 1,March,Social,652,Mobile,Display,Mississippi
+2019,Qtr 1,January,Core,14763,Desktop,Display,Mississippi
+2018,Qtr 4,December,Video Platform,602,Mobile,Video,Mississippi
+2018,Qtr 4,December,Video Platform,331,Desktop,Video,Mississippi
+2018,Qtr 4,December,Social,4716,Mobile,Video,Mississippi
+2018,Qtr 4,December,Social,2316,Mobile,Display,Mississippi
+2018,Qtr 4,December,Social,189,Desktop,Video,Mississippi
+2018,Qtr 4,December,Social,117,Desktop,Display,Mississippi
+2018,Qtr 4,December,Core,16704,Mobile,Display,Mississippi
+2018,Qtr 4,December,Core,14213,Desktop,Display,Mississippi
+2018,Qtr 4,November,Video Platform,481,Mobile,Video,Mississippi
+2018,Qtr 4,November,Video Platform,320,Desktop,Video,Mississippi
+2018,Qtr 4,November,Social,4972,Mobile,Video,Mississippi
+2018,Qtr 4,November,Social,1957,Mobile,Display,Mississippi
+2018,Qtr 4,November,Social,185,Desktop,Video,Mississippi
+2018,Qtr 4,November,Social,133,Desktop,Display,Mississippi
+2018,Qtr 4,November,Core,14888,Mobile,Display,Mississippi
+2018,Qtr 4,November,Core,14030,Desktop,Display,Mississippi
+2018,Qtr 4,October,Video Platform,225,Mobile,Video,Mississippi
+2018,Qtr 4,October,Video Platform,158,Desktop,Video,Mississippi
+2018,Qtr 4,October,Social,2363,Mobile,Video,Mississippi
+2017,Qtr 2,April,Core,26365,Desktop,Display,Mississippi
+2018,Qtr 4,October,Social,3308,Mobile,Display,Mississippi
+2018,Qtr 4,October,Social,122,Desktop,Video,Mississippi
+2018,Qtr 4,October,Social,217,Desktop,Display,Mississippi
+2018,Qtr 4,October,Core,11844,Mobile,Display,Mississippi
+2018,Qtr 4,October,Core,13521,Desktop,Display,Mississippi
+2018,Qtr 3,September,Video Platform,327,Mobile,Video,Mississippi
+2018,Qtr 3,September,Video Platform,154,Desktop,Video,Mississippi
+2018,Qtr 3,September,Social,3267,Mobile,Video,Mississippi
+2018,Qtr 3,September,Social,2698,Mobile,Display,Mississippi
+2018,Qtr 3,September,Social,204,Desktop,Video,Mississippi
+2018,Qtr 3,September,Social,193,Desktop,Display,Mississippi
+2017,Qtr 2,April,Core,16880,Mobile,Display,Mississippi
+2018,Qtr 3,September,Core,10681,Mobile,Display,Mississippi
+2017,Qtr 2,April,Social,208,Desktop,Display,Mississippi
+2018,Qtr 3,September,Core,6665,Desktop,Display,Mississippi
+2018,Qtr 3,August,Video Platform,484,Mobile,Video,Mississippi
+2018,Qtr 3,August,Video Platform,265,Desktop,Video,Mississippi
+2018,Qtr 3,August,Social,3967,Mobile,Video,Mississippi
+2018,Qtr 3,August,Social,2936,Mobile,Display,Mississippi
+2018,Qtr 3,August,Social,290,Desktop,Video,Mississippi
+2017,Qtr 2,April,Social,744,Mobile,Display,Mississippi
+2018,Qtr 3,August,Social,156,Desktop,Display,Mississippi
+2018,Qtr 3,August,Core,9438,Mobile,Display,Mississippi
+2018,Qtr 3,August,Core,11970,Desktop,Display,Mississippi
+2018,Qtr 3,July,Video Platform,248,Mobile,Video,Mississippi
+2018,Qtr 3,July,Video Platform,134,Desktop,Video,Mississippi
+2018,Qtr 3,July,Social,2962,Mobile,Video,Mississippi
+2018,Qtr 3,July,Social,2370,Mobile,Display,Mississippi
+2018,Qtr 3,July,Social,134,Desktop,Video,Mississippi
+2018,Qtr 3,July,Social,101,Desktop,Display,Mississippi
+2018,Qtr 3,July,Core,6877,Mobile,Display,Mississippi
+2018,Qtr 3,July,Core,10841,Desktop,Display,Mississippi
+2018,Qtr 2,June,Social,1757,Mobile,Video,Mississippi
+2018,Qtr 2,June,Social,3809,Mobile,Display,Mississippi
+2018,Qtr 2,June,Social,185,Desktop,Display,Mississippi
+2018,Qtr 2,June,Core,23358,Mobile,Display,Mississippi
+2018,Qtr 2,June,Core,20201,Desktop,Display,Mississippi
+2017,Qtr 2,May,Core,35107,Desktop,Display,Mississippi
+2018,Qtr 2,May,Social,3153,Mobile,Video,Mississippi
+2018,Qtr 2,May,Social,1306,Mobile,Display,Mississippi
+2018,Qtr 2,May,Social,167,Desktop,Video,Mississippi
+2018,Qtr 2,May,Core,15086,Mobile,Display,Mississippi
+2018,Qtr 2,May,Core,12031,Desktop,Display,Mississippi
+2018,Qtr 2,April,New Business,601,Mobile,Display,Mississippi
+2018,Qtr 2,April,Social,2563,Mobile,Video,Mississippi
+2018,Qtr 2,April,Social,1215,Mobile,Display,Mississippi
+2018,Qtr 2,April,Social,163,Desktop,Video,Mississippi
+2018,Qtr 2,April,Social,124,Desktop,Display,Mississippi
+2017,Qtr 2,May,Core,18844,Mobile,Display,Mississippi
+2018,Qtr 2,April,Core,21286,Mobile,Display,Mississippi
+2018,Qtr 2,April,Core,21853,Desktop,Display,Mississippi
+2017,Qtr 2,May,Social,339,Desktop,Display,Mississippi
+2018,Qtr 1,March,New Business,477,Mobile,Display,Mississippi
+2018,Qtr 1,March,Social,1383,Mobile,Video,Mississippi
+2018,Qtr 1,March,Social,1350,Mobile,Display,Mississippi
+2018,Qtr 1,March,Social,126,Desktop,Display,Mississippi
+2018,Qtr 1,March,Core,17610,Mobile,Display,Mississippi
+2017,Qtr 2,May,Social,1688,Mobile,Display,Mississippi
+2018,Qtr 1,March,Core,19196,Desktop,Display,Mississippi
+2018,Qtr 1,February,New Business,176,Mobile,Video,Mississippi
+2018,Qtr 1,February,New Business,374,Mobile,Display,Mississippi
+2018,Qtr 1,February,New Business,113,Desktop,Video,Mississippi
+2018,Qtr 1,February,Social,672,Mobile,Video,Mississippi
+2018,Qtr 1,February,Social,1142,Mobile,Display,Mississippi
+2018,Qtr 1,February,Social,157,Desktop,Display,Mississippi
+2018,Qtr 1,February,Core,11482,Mobile,Display,Mississippi
+2018,Qtr 1,February,Core,13486,Desktop,Display,Mississippi
+2018,Qtr 1,January,Social,432,Mobile,Video,Mississippi
+2018,Qtr 1,January,Social,785,Mobile,Display,Mississippi
+2018,Qtr 1,January,Social,127,Desktop,Display,Mississippi
+2018,Qtr 1,January,Core,19274,Mobile,Display,Mississippi
+2018,Qtr 1,January,Core,20289,Desktop,Display,Mississippi
+2017,Qtr 4,December,New Business,372,Mobile,Display,Mississippi
+2017,Qtr 4,December,Social,1241,Mobile,Video,Mississippi
+2017,Qtr 4,December,Social,1122,Mobile,Display,Mississippi
+2017,Qtr 4,December,Social,163,Desktop,Display,Mississippi
+2017,Qtr 2,June,Core,44279,Desktop,Display,Mississippi
+2017,Qtr 4,December,Core,11689,Mobile,Display,Mississippi
+2017,Qtr 4,December,Core,14439,Desktop,Display,Mississippi
+2017,Qtr 2,June,Core,163,Desktop,Video,Mississippi
+2017,Qtr 4,November,New Business,164,Mobile,Display,Mississippi
+2017,Qtr 4,November,Social,703,Mobile,Video,Mississippi
+2017,Qtr 4,November,Social,587,Mobile,Display,Mississippi
+2017,Qtr 4,November,Social,101,Desktop,Display,Mississippi
+2017,Qtr 4,November,Core,12581,Mobile,Display,Mississippi
+2017,Qtr 4,November,Core,14484,Desktop,Display,Mississippi
+2017,Qtr 4,October,Social,838,Mobile,Display,Mississippi
+2017,Qtr 4,October,Social,315,Desktop,Display,Mississippi
+2017,Qtr 2,June,Core,30347,Mobile,Display,Mississippi
+2017,Qtr 4,October,Core,13952,Mobile,Display,Mississippi
+2017,Qtr 2,June,Social,533,Desktop,Display,Mississippi
+2017,Qtr 4,October,Core,27357,Desktop,Display,Mississippi
+2017,Qtr 3,September,Social,151,Mobile,Video,Mississippi
+2017,Qtr 3,September,Social,1433,Mobile,Display,Mississippi
+2017,Qtr 3,September,Social,522,Desktop,Display,Mississippi
+2017,Qtr 3,September,Core,10210,Mobile,Display,Mississippi
+2017,Qtr 2,June,Social,1742,Mobile,Display,Mississippi
+2017,Qtr 3,September,Core,17787,Desktop,Display,Mississippi
+2017,Qtr 3,August,Social,773,Mobile,Video,Mississippi
+2017,Qtr 3,August,Social,778,Mobile,Display,Mississippi
+2017,Qtr 3,August,Social,413,Desktop,Display,Mississippi
+2017,Qtr 3,August,Core,11147,Mobile,Display,Mississippi
+2017,Qtr 3,August,Core,16463,Desktop,Display,Mississippi
+2017,Qtr 2,June,Social,142,Mobile,Video,Mississippi
+2017,Qtr 3,July,Social,1627,Mobile,Display,Mississippi
+2017,Qtr 3,July,Social,589,Desktop,Display,Mississippi
+2017,Qtr 3,July,Core,12623,Mobile,Display,Mississippi
+2017,Qtr 3,July,Core,18426,Desktop,Display,Mississippi
+2019,Qtr 3,September,Video Platform,2320,Mobile,Video,Ganges
+2019,Qtr 3,September,Video Platform,206,Desktop,Video,Ganges
+2019,Qtr 3,September,Social,219,Mobile,Video,Ganges
+2019,Qtr 3,September,Core,226,Mobile,Video,Ganges
+2019,Qtr 3,September,Core,5559,Mobile,Display,Ganges
+2019,Qtr 3,September,Core,145,Desktop,Video,Ganges
+2019,Qtr 3,September,Core,942,Desktop,Display,Ganges
+2019,Qtr 3,August,Video Platform,5862,Mobile,Video,Ganges
+2017,Qtr 1,January,Core,5886,Desktop,Display,Ganges
+2019,Qtr 3,August,Video Platform,349,Desktop,Video,Ganges
+2017,Qtr 1,January,Core,1088,Desktop,Video,Ganges
+2019,Qtr 3,August,Social,1171,Mobile,Video,Ganges
+2019,Qtr 3,August,Core,1149,Mobile,Video,Ganges
+2019,Qtr 3,August,Core,23305,Mobile,Display,Ganges
+2017,Qtr 1,January,Core,12812,Mobile,Display,Ganges
+2019,Qtr 3,August,Core,730,Desktop,Video,Ganges
+2019,Qtr 3,August,Core,2776,Desktop,Display,Ganges
+2019,Qtr 3,July,Video Platform,5443,Mobile,Video,Ganges
+2019,Qtr 3,July,Video Platform,341,Desktop,Video,Ganges
+2019,Qtr 3,July,Social,1251,Mobile,Video,Ganges
+2019,Qtr 3,July,Social,408,Mobile,Display,Ganges
+2019,Qtr 3,July,Core,1367,Mobile,Video,Ganges
+2019,Qtr 3,July,Core,8223,Mobile,Display,Ganges
+2019,Qtr 3,July,Core,747,Desktop,Video,Ganges
+2019,Qtr 3,July,Core,1450,Desktop,Display,Ganges
+2019,Qtr 2,June,Video Platform,3679,Mobile,Video,Ganges
+2019,Qtr 2,June,Video Platform,294,Desktop,Video,Ganges
+2019,Qtr 2,June,Social,2807,Mobile,Video,Ganges
+2019,Qtr 2,June,Social,1851,Mobile,Display,Ganges
+2019,Qtr 2,June,Core,858,Mobile,Video,Ganges
+2019,Qtr 2,June,Core,8766,Mobile,Display,Ganges
+2017,Qtr 1,February,Core,11224,Desktop,Display,Ganges
+2017,Qtr 1,February,Core,1447,Desktop,Video,Ganges
+2019,Qtr 2,June,Core,506,Desktop,Video,Ganges
+2019,Qtr 2,June,Core,2010,Desktop,Display,Ganges
+2019,Qtr 2,May,Video Platform,380,Mobile,Video,Ganges
+2019,Qtr 2,May,Social,1543,Mobile,Video,Ganges
+2019,Qtr 2,May,Social,1208,Mobile,Display,Ganges
+2017,Qtr 1,February,Core,17612,Mobile,Display,Ganges
+2019,Qtr 2,May,Core,1323,Mobile,Video,Ganges
+2019,Qtr 2,May,Core,4405,Mobile,Display,Ganges
+2019,Qtr 2,May,Core,807,Desktop,Video,Ganges
+2019,Qtr 2,May,Core,2404,Desktop,Display,Ganges
+2019,Qtr 2,April,Video Platform,494,Mobile,Video,Ganges
+2019,Qtr 2,April,Social,1442,Mobile,Video,Ganges
+2019,Qtr 2,April,Social,508,Mobile,Display,Ganges
+2019,Qtr 2,April,Core,200,Mobile,Video,Ganges
+2019,Qtr 2,April,Core,4669,Mobile,Display,Ganges
+2019,Qtr 2,April,Core,198,Desktop,Video,Ganges
+2019,Qtr 2,April,Core,1367,Desktop,Display,Ganges
+2019,Qtr 1,March,Video Platform,874,Mobile,Video,Ganges
+2019,Qtr 1,March,Social,594,Mobile,Video,Ganges
+2019,Qtr 1,March,Social,551,Mobile,Display,Ganges
+2019,Qtr 1,March,Core,193,Mobile,Video,Ganges
+2019,Qtr 1,March,Core,8751,Mobile,Display,Ganges
+2019,Qtr 1,March,Core,300,Desktop,Video,Ganges
+2019,Qtr 1,March,Core,2366,Desktop,Display,Ganges
+2019,Qtr 1,February,Video Platform,895,Mobile,Video,Ganges
+2017,Qtr 1,March,Core,7321,Desktop,Display,Ganges
+2019,Qtr 1,February,Social,281,Mobile,Video,Ganges
+2017,Qtr 1,March,Core,1438,Desktop,Video,Ganges
+2019,Qtr 1,February,Core,362,Mobile,Video,Ganges
+2019,Qtr 1,February,Core,10766,Mobile,Display,Ganges
+2019,Qtr 1,February,Core,430,Desktop,Video,Ganges
+2019,Qtr 1,February,Core,3300,Desktop,Display,Ganges
+2019,Qtr 1,January,Video Platform,892,Mobile,Video,Ganges
+2017,Qtr 1,March,Core,23204,Mobile,Display,Ganges
+2019,Qtr 1,January,Social,193,Mobile,Video,Ganges
+2019,Qtr 1,January,Core,537,Mobile,Video,Ganges
+2019,Qtr 1,January,Core,9567,Mobile,Display,Ganges
+2019,Qtr 1,January,Core,570,Desktop,Video,Ganges
+2019,Qtr 1,January,Core,2543,Desktop,Display,Ganges
+2017,Qtr 1,March,Social,199,Mobile,Display,Ganges
+2018,Qtr 4,December,Social,1730,Mobile,Video,Ganges
+2018,Qtr 4,December,Core,323,Mobile,Video,Ganges
+2018,Qtr 4,December,Core,28591,Mobile,Display,Ganges
+2018,Qtr 4,December,Core,319,Desktop,Video,Ganges
+2017,Qtr 1,March,Social,170,Mobile,Video,Ganges
+2018,Qtr 4,December,Core,6899,Desktop,Display,Ganges
+2018,Qtr 4,November,Video Platform,1122,Mobile,Video,Ganges
+2018,Qtr 4,November,Social,312,Mobile,Display,Ganges
+2018,Qtr 4,November,Core,378,Mobile,Video,Ganges
+2018,Qtr 4,November,Core,20020,Mobile,Display,Ganges
+2018,Qtr 4,November,Core,411,Desktop,Video,Ganges
+2018,Qtr 4,November,Core,8530,Desktop,Display,Ganges
+2018,Qtr 4,October,Video Platform,944,Mobile,Video,Ganges
+2018,Qtr 4,October,Video Platform,111,Desktop,Video,Ganges
+2018,Qtr 4,October,Social,138,Mobile,Video,Ganges
+2018,Qtr 4,October,Social,124,Mobile,Display,Ganges
+2017,Qtr 2,April,Core,12355,Desktop,Display,Ganges
+2018,Qtr 4,October,Core,563,Mobile,Video,Ganges
+2017,Qtr 2,April,Core,1026,Desktop,Video,Ganges
+2018,Qtr 4,October,Core,21743,Mobile,Display,Ganges
+2018,Qtr 4,October,Core,434,Desktop,Video,Ganges
+2018,Qtr 4,October,Core,6648,Desktop,Display,Ganges
+2018,Qtr 3,September,Video Platform,594,Mobile,Video,Ganges
+2018,Qtr 3,September,Social,300,Mobile,Video,Ganges
+2018,Qtr 3,September,Social,145,Mobile,Display,Ganges
+2018,Qtr 3,September,Core,324,Mobile,Video,Ganges
+2018,Qtr 3,September,Core,31711,Mobile,Display,Ganges
+2017,Qtr 2,April,Core,29641,Mobile,Display,Ganges
+2018,Qtr 3,September,Core,277,Desktop,Video,Ganges
+2018,Qtr 3,September,Core,8136,Desktop,Display,Ganges
+2018,Qtr 3,August,Video Platform,131,Mobile,Video,Ganges
+2018,Qtr 3,August,Social,280,Mobile,Video,Ganges
+2018,Qtr 3,August,Social,542,Mobile,Display,Ganges
+2018,Qtr 3,August,Core,699,Mobile,Video,Ganges
+2018,Qtr 3,August,Core,37138,Mobile,Display,Ganges
+2018,Qtr 3,August,Core,335,Desktop,Video,Ganges
+2018,Qtr 3,August,Core,7947,Desktop,Display,Ganges
+2018,Qtr 3,July,Social,133,Mobile,Video,Ganges
+2018,Qtr 3,July,Social,1194,Mobile,Display,Ganges
+2017,Qtr 2,April,Social,288,Mobile,Video,Ganges
+2018,Qtr 3,July,Core,215,Mobile,Video,Ganges
+2018,Qtr 3,July,Core,39215,Mobile,Display,Ganges
+2018,Qtr 3,July,Core,155,Desktop,Video,Ganges
+2018,Qtr 3,July,Core,8306,Desktop,Display,Ganges
+2018,Qtr 2,June,Social,501,Mobile,Video,Ganges
+2018,Qtr 2,June,Social,503,Mobile,Display,Ganges
+2018,Qtr 2,June,Core,196,Mobile,Video,Ganges
+2018,Qtr 2,June,Core,41180,Mobile,Display,Ganges
+2018,Qtr 2,June,Core,329,Desktop,Video,Ganges
+2018,Qtr 2,June,Core,7216,Desktop,Display,Ganges
+2017,Qtr 2,May,Core,15745,Desktop,Display,Ganges
+2018,Qtr 2,May,Social,614,Mobile,Video,Ganges
+2017,Qtr 2,May,Core,1048,Desktop,Video,Ganges
+2018,Qtr 2,May,Core,236,Mobile,Video,Ganges
+2018,Qtr 2,May,Core,42331,Mobile,Display,Ganges
+2018,Qtr 2,May,Core,352,Desktop,Video,Ganges
+2018,Qtr 2,May,Core,8053,Desktop,Display,Ganges
+2018,Qtr 2,April,Video Platform,112,Mobile,Video,Ganges
+2018,Qtr 2,April,Social,1566,Mobile,Video,Ganges
+2018,Qtr 2,April,Core,134,Mobile,Video,Ganges
+2018,Qtr 2,April,Core,36023,Mobile,Display,Ganges
+2018,Qtr 2,April,Core,445,Desktop,Video,Ganges
+2017,Qtr 2,May,Core,32293,Mobile,Display,Ganges
+2017,Qtr 2,May,Core,130,Mobile,Video,Ganges
+2018,Qtr 2,April,Core,7637,Desktop,Display,Ganges
+2017,Qtr 2,May,Social,365,Desktop,Video,Ganges
+2018,Qtr 1,March,Video Platform,381,Mobile,Video,Ganges
+2018,Qtr 1,March,Video Platform,155,Desktop,Video,Ganges
+2018,Qtr 1,March,Social,436,Mobile,Video,Ganges
+2018,Qtr 1,March,Social,350,Mobile,Display,Ganges
+2018,Qtr 1,March,Core,485,Mobile,Video,Ganges
+2018,Qtr 1,March,Core,39473,Mobile,Display,Ganges
+2018,Qtr 1,March,Core,726,Desktop,Video,Ganges
+2018,Qtr 1,March,Core,7118,Desktop,Display,Ganges
+2017,Qtr 2,May,Social,1459,Mobile,Display,Ganges
+2018,Qtr 1,February,Video Platform,143,Mobile,Video,Ganges
+2018,Qtr 1,February,Social,123,Mobile,Video,Ganges
+2018,Qtr 1,February,Social,667,Mobile,Display,Ganges
+2018,Qtr 1,February,Core,116,Mobile,Video,Ganges
+2018,Qtr 1,February,Core,33130,Mobile,Display,Ganges
+2017,Qtr 2,May,Social,2556,Mobile,Video,Ganges
+2018,Qtr 1,February,Core,6483,Desktop,Display,Ganges
+2017,Qtr 2,May,Video Platform,147,Mobile,Video,Ganges
+2018,Qtr 1,January,Social,145,Mobile,Video,Ganges
+2018,Qtr 1,January,Social,370,Mobile,Display,Ganges
+2018,Qtr 1,January,Core,428,Mobile,Video,Ganges
+2018,Qtr 1,January,Core,23085,Mobile,Display,Ganges
+2018,Qtr 1,January,Core,559,Desktop,Video,Ganges
+2018,Qtr 1,January,Core,5564,Desktop,Display,Ganges
+2017,Qtr 4,December,Social,621,Mobile,Video,Ganges
+2017,Qtr 4,December,Social,577,Mobile,Display,Ganges
+2017,Qtr 4,December,Core,546,Mobile,Video,Ganges
+2017,Qtr 4,December,Core,47929,Mobile,Display,Ganges
+2017,Qtr 4,December,Core,391,Desktop,Video,Ganges
+2017,Qtr 4,December,Core,11834,Desktop,Display,Ganges
+2017,Qtr 2,June,Core,14607,Desktop,Display,Ganges
+2017,Qtr 2,June,Core,738,Desktop,Video,Ganges
+2017,Qtr 4,November,Video Platform,394,Mobile,Video,Ganges
+2017,Qtr 4,November,Video Platform,203,Desktop,Video,Ganges
+2017,Qtr 4,November,Social,2503,Mobile,Video,Ganges
+2017,Qtr 4,November,Social,1079,Mobile,Display,Ganges
+2017,Qtr 4,November,Core,303,Mobile,Video,Ganges
+2017,Qtr 4,November,Core,38398,Mobile,Display,Ganges
+2017,Qtr 4,November,Core,262,Desktop,Video,Ganges
+2017,Qtr 4,November,Core,11865,Desktop,Display,Ganges
+2017,Qtr 4,October,Video Platform,500,Mobile,Video,Ganges
+2017,Qtr 4,October,Video Platform,234,Desktop,Video,Ganges
+2017,Qtr 4,October,Social,1538,Mobile,Video,Ganges
+2017,Qtr 4,October,Social,964,Mobile,Display,Ganges
+2017,Qtr 4,October,Social,139,Desktop,Video,Ganges
+2017,Qtr 4,October,Core,208,Mobile,Video,Ganges
+2017,Qtr 4,October,Core,39305,Mobile,Display,Ganges
+2017,Qtr 4,October,Core,220,Desktop,Video,Ganges
+2017,Qtr 2,June,Core,45211,Mobile,Display,Ganges
+2017,Qtr 2,June,Core,138,Mobile,Video,Ganges
+2017,Qtr 4,October,Core,9746,Desktop,Display,Ganges
+2017,Qtr 2,June,Social,606,Desktop,Video,Ganges
+2017,Qtr 3,September,Video Platform,733,Mobile,Video,Ganges
+2017,Qtr 3,September,Video Platform,210,Desktop,Video,Ganges
+2017,Qtr 3,September,Social,7235,Mobile,Video,Ganges
+2017,Qtr 3,September,Social,1827,Mobile,Display,Ganges
+2017,Qtr 3,September,Social,686,Desktop,Video,Ganges
+2017,Qtr 3,September,Core,347,Mobile,Video,Ganges
+2017,Qtr 3,September,Core,40561,Mobile,Display,Ganges
+2017,Qtr 3,September,Core,296,Desktop,Video,Ganges
+2017,Qtr 3,September,Core,11308,Desktop,Display,Ganges
+2017,Qtr 2,June,Social,1589,Mobile,Display,Ganges
+2017,Qtr 3,August,Social,8601,Mobile,Video,Ganges
+2017,Qtr 3,August,Social,1808,Mobile,Display,Ganges
+2017,Qtr 3,August,Social,539,Desktop,Video,Ganges
+2017,Qtr 3,August,Social,103,Desktop,Display,Ganges
+2017,Qtr 3,August,Core,236,Mobile,Video,Ganges
+2017,Qtr 3,August,Core,35650,Mobile,Display,Ganges
+2017,Qtr 3,August,Core,383,Desktop,Video,Ganges
+2017,Qtr 3,August,Core,9118,Desktop,Display,Ganges
+2017,Qtr 3,July,Video Platform,242,Mobile,Video,Ganges
+2017,Qtr 3,July,Social,5238,Mobile,Video,Ganges
+2017,Qtr 2,June,Social,5480,Mobile,Video,Ganges
+2017,Qtr 3,July,Social,1443,Mobile,Display,Ganges
+2017,Qtr 3,July,Social,451,Desktop,Video,Ganges
+2017,Qtr 3,July,Core,219,Mobile,Video,Ganges
+2017,Qtr 3,July,Core,33126,Mobile,Display,Ganges
+2017,Qtr 3,July,Core,378,Desktop,Video,Ganges
+2017,Qtr 3,July,Core,9051,Desktop,Display,Ganges
+2017,Qtr 2,June,Video Platform,493,Mobile,Video,Ganges
+2019,Qtr 3,September,Core,12416,Mobile,Display,Yangtze
+2019,Qtr 3,September,Core,21645,Desktop,Display,Yangtze
+2017,Qtr 1,January,Core,69278,Desktop,Display,Yangtze
+2019,Qtr 3,August,Core,35458,Mobile,Display,Yangtze
+2017,Qtr 1,January,Core,47193,Mobile,Display,Yangtze
+2019,Qtr 3,August,Core,42733,Desktop,Display,Yangtze
+2019,Qtr 3,July,Core,34554,Mobile,Display,Yangtze
+2019,Qtr 3,July,Core,54418,Desktop,Display,Yangtze
+2019,Qtr 2,June,Core,35177,Mobile,Display,Yangtze
+2017,Qtr 1,February,Core,85236,Desktop,Display,Yangtze
+2019,Qtr 2,June,Core,55601,Desktop,Display,Yangtze
+2017,Qtr 1,February,Core,59896,Mobile,Display,Yangtze
+2019,Qtr 2,May,Core,35519,Mobile,Display,Yangtze
+2019,Qtr 2,May,Core,55456,Desktop,Display,Yangtze
+2019,Qtr 2,April,Core,33552,Mobile,Display,Yangtze
+2019,Qtr 2,April,Core,56388,Desktop,Display,Yangtze
+2019,Qtr 1,March,Core,68998,Mobile,Display,Yangtze
+2019,Qtr 1,March,Core,86886,Desktop,Display,Yangtze
+2017,Qtr 1,March,Core,104207,Desktop,Display,Yangtze
+2019,Qtr 1,February,Core,50089,Mobile,Display,Yangtze
+2019,Qtr 1,February,Core,73600,Desktop,Display,Yangtze
+2017,Qtr 1,March,Core,81057,Mobile,Display,Yangtze
+2019,Qtr 1,January,Core,45806,Mobile,Display,Yangtze
+2019,Qtr 1,January,Core,66500,Desktop,Display,Yangtze
+2018,Qtr 4,December,Core,64558,Mobile,Display,Yangtze
+2018,Qtr 4,December,Core,86591,Desktop,Display,Yangtze
+2018,Qtr 4,November,Core,49508,Mobile,Display,Yangtze
+2018,Qtr 4,November,Core,81884,Desktop,Display,Yangtze
+2017,Qtr 2,April,Core,51149,Desktop,Display,Yangtze
+2018,Qtr 4,October,Core,48101,Mobile,Display,Yangtze
+2018,Qtr 4,October,Core,75478,Desktop,Display,Yangtze
+2018,Qtr 3,September,Core,57341,Mobile,Display,Yangtze
+2017,Qtr 2,April,Core,36664,Mobile,Display,Yangtze
+2018,Qtr 3,September,Core,78063,Desktop,Display,Yangtze
+2018,Qtr 3,August,Core,46790,Mobile,Display,Yangtze
+2018,Qtr 3,August,Core,72969,Desktop,Display,Yangtze
+2018,Qtr 3,July,Core,43660,Mobile,Display,Yangtze
+2018,Qtr 3,July,Core,76873,Desktop,Display,Yangtze
+2018,Qtr 2,June,Core,45879,Mobile,Display,Yangtze
+2018,Qtr 2,June,Core,82229,Desktop,Display,Yangtze
+2017,Qtr 2,May,Core,61855,Desktop,Display,Yangtze
+2018,Qtr 2,May,Core,39633,Mobile,Display,Yangtze
+2018,Qtr 2,May,Core,75331,Desktop,Display,Yangtze
+2018,Qtr 2,April,Core,34169,Mobile,Display,Yangtze
+2017,Qtr 2,May,Core,41976,Mobile,Display,Yangtze
+2018,Qtr 2,April,Core,62373,Desktop,Display,Yangtze
+2018,Qtr 1,March,Core,64885,Mobile,Display,Yangtze
+2018,Qtr 1,March,Core,101645,Desktop,Display,Yangtze
+2018,Qtr 1,February,Core,51592,Mobile,Display,Yangtze
+2018,Qtr 1,February,Core,87287,Desktop,Display,Yangtze
+2018,Qtr 1,January,Core,40594,Mobile,Display,Yangtze
+2018,Qtr 1,January,Core,66439,Desktop,Display,Yangtze
+2017,Qtr 4,December,Core,80325,Mobile,Display,Yangtze
+2017,Qtr 4,December,Core,99994,Desktop,Display,Yangtze
+2017,Qtr 2,June,Core,76275,Desktop,Display,Yangtze
+2017,Qtr 4,November,Core,49254,Mobile,Display,Yangtze
+2017,Qtr 4,November,Core,81297,Desktop,Display,Yangtze
+2017,Qtr 4,October,Core,47586,Mobile,Display,Yangtze
+2017,Qtr 2,June,Core,52043,Mobile,Display,Yangtze
+2017,Qtr 4,October,Core,75332,Desktop,Display,Yangtze
+2017,Qtr 3,September,Core,52597,Mobile,Display,Yangtze
+2017,Qtr 3,September,Core,71062,Desktop,Display,Yangtze
+2017,Qtr 3,August,Core,51357,Mobile,Display,Yangtze
+2017,Qtr 3,August,Core,64887,Desktop,Display,Yangtze
+2017,Qtr 3,July,Core,41272,Mobile,Display,Yangtze
+2017,Qtr 3,July,Core,66052,Desktop,Display,Yangtze
